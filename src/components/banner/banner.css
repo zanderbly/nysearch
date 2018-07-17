@@ -1,0 +1,8 @@
+.jumbotron {
+    box-shadow: 8px 8px 20px rgb(56, 56, 56);
+    position: "fixed";
+    top: 0;
+    width: "100%";
+    overflow: "hidden";
+    z-index: 1,
+  }
